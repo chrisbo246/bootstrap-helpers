@@ -4,25 +4,25 @@ Missing CSS and common JS.
 
 ## Features
 
-See [demo](http://chrisbo246.github.io/bootstrap-helpers/)
+See [website](http://chrisbo246.github.io/bootstrap-helpers/).
 
 ## Getting Started
 
 ### Installing
 
-With Bower
+Download with Bower.
 
 ```
 bower install chrisbo246/bootstrap-helpers
 ```
 
-Insert the bootstrap-helpers.js in your index.html
+Insert the **bootstrap-helpers.js** in your index.html
 
 ```
 <script src="/bower_components/bootstrap-helpers/dist/scripts/bootstrap-helpers.js"></script>
 ```
 
-Edit your main.scss and insert bootstrap-helpers.scss just after Bootstrap.
+Edit your main.scss and insert **bootstrap-helpers.scss** just after Bootstrap.
 
 ```
 @import "bootstrap";
@@ -35,10 +35,10 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-Install the Node Package Manager on your local machine then run the following command to download dependencies.
+Install [Node](https://nodejs.org/en/download/) on your local machine then download dependencies.
 
 ```
-npm install -g gulp-cli bower
+npm install -g gulp-cli bower yo generator-webapp
 ```
 
 ### Installing
@@ -74,11 +74,11 @@ Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduc
 
 -->
 
-## Authors
+## Author
 
-* **Christophe BOISIER** [chrisbo246](https://github.com/chrisbo246)
+[chrisbo246](https://github.com/chrisbo246)
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/chrisbo246/bootstrap-helpers/contributors) who participated in this project.
 
 <!--
 
