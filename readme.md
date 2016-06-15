@@ -1,4 +1,5 @@
-# Bootstrap helpers
+# Bootstrap helpers [![Build Status](https://secure.travis-ci.org/chrisbo246/bootstrap-helpers.svg?branch=master)](http://travis-ci.org/chrisbo246/bootstrap-helpers) [![Coverage Status](https://coveralls.io/repos/chrisbo246/bootstrap-helpers/badge.png?branch=master)](https://coveralls.io/r/chrisbo246/bootstrap-helpers?branch=master)
+
 
 Missing CSS and common JS.
 
@@ -64,7 +65,7 @@ gulp serve
 gulp build
 ```
 
-Then upload the dist directory content to your web server.
+Then upload the **dist** directory content to your web server.
 
 <!--
 
@@ -74,16 +75,17 @@ Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduc
 
 -->
 
+
+## Bugs
+
+Please use the [GitHub issue tracker](https://github.com/chrisbo246/bootstrap-helpers/issues) for all bugs and feature requests. Before creating a new issue, do a quick search to see if the problem has been reported already.
+
 ## Author
 
 [chrisbo246](https://github.com/chrisbo246)
 
 See also the list of [contributors](https://github.com/chrisbo246/bootstrap-helpers/contributors) who participated in this project.
 
-<!--
-
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
--->
+This project is licensed under the MIT License. See the [opensource.org](https://opensource.org/licenses/MIT) website for details.
